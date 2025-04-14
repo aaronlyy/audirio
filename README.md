@@ -5,7 +5,7 @@ Sound device switching on windows made easy 🔊
 This project is experimental and in early stages of development!
 
 ## What is audirio?
-A C++ library, cli tool and windows tool to switch the current active audio device.
+A C++ library, cli & gui to switch the current active audio devic on windows.
 Maybe I'll add some more functionality later, if everything else works.
 
 ## Building
